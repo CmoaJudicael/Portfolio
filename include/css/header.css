@@ -1,0 +1,36 @@
+/*** HEADER ***/
+
+header
+{
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 50;
+}
+#menu_nav>ul>a
+{
+    font-size: 1em;
+    text-decoration: none;
+    margin: 0% 1%;
+    color: #DAE6E7;
+    transition: all 1s;
+}
+#menu_nav>ul>a:hover
+{
+    color: #82e6a0;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    transition: all 0.2s;
+}
+#menu_nav:hover>ul>a
+{
+    font-size: 1.2em;
+    margin: 1% 0.5%;
+    transition: all 1s;
+}
+ul
+{
+    margin-bottom: 0rem;
+}
+
+/****************/

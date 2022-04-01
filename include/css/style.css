@@ -1,0 +1,43 @@
+/****************/
+/**** Général ****/
+.Color-bg-gray
+{
+    background-color: #7e7d7d;
+}
+.Color-gray
+{
+    color: #7e7d7d;
+}
+.Color-bg-darkBlue
+{
+    background-color: #221C38;
+}
+.Color-darkBlue
+{
+    color: #221C38;
+}
+.Color-bg-lightBlue
+{
+    background-color: #3DA1FF;
+}
+.Color-lightBlue
+{
+    color: #3DA1FF;
+}
+.Color-lightGreen
+{
+    color: #82e6a0;
+}
+.full-space
+{
+    width: 100%;
+    height: 100%;
+}
+.pos-Absolute
+{
+    position: absolute;
+}
+
+
+
+

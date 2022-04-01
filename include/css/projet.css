@@ -1,0 +1,51 @@
+/**** Projet ****/
+.bulle
+{
+    left: -50%;
+    top: 35%;
+}
+.touche-dir
+{
+    width: 10vh;
+    height: 5vh;
+}
+.touche-left
+{
+    border-left: 1rem solid red;
+}
+.touche-right
+{
+    border-right: 1rem solid red;
+}
+.touche-left:hover
+{
+    animation: alternate infinite 0.3s t-left;
+}
+.touche-right:hover
+{
+    animation: alternate infinite 0.3s t-right;
+}
+@keyframes t-right
+{
+    0%
+    {
+        border-right: 1rem solid red;
+    }
+    100%
+    {
+        border-right: 1rem solid whitesmoke;
+    }
+}
+@keyframes t-left
+{
+    0%
+    {
+        border-left: 1rem solid red;
+    }
+    100%
+    {
+        border-left: 1rem solid whitesmoke;
+    }
+    
+}
+/****************/
