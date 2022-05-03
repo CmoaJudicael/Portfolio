@@ -1,16 +1,17 @@
 <?php
-
-include __DIR__.'\include\view\doctype.php';
+include __DIR__.'/include/view/doctype.php';
 
 
 ?>
 
-<body class="Color-bg-darkBlue Color-lightGreen">
+<body class="Color-lightGreen">
     
 <?php
 
-include __DIR__.'\include\view\header.php';
+include __DIR__.'/include/view/header.php';
 ?>
+<body>
+    
 
 <div class="wrap">
 
@@ -37,13 +38,14 @@ else
 
 </div>
 
+</body>
 <?php
 
 
 
 
 
-include __DIR__.'\include\view\footer.php';
+include __DIR__.'/include/view/footer.php';
 ?>
 
     </body>

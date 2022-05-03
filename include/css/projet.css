@@ -1,8 +1,31 @@
 /**** Projet ****/
+.wrap
+{
+    width: 95vw;
+    height: 90vh;
+}
 .bulle
 {
     left: -50%;
     top: 35%;
+    border: 0.3em solid #82e6a0;
+    text-decoration: none;
+}
+.bulle:hover
+{
+    border: 1em solid #8b51b1;
+    transition: border 0.3s linear;
+
+}
+.bulle>p
+{
+    font-size: 1.5rem;
+    transition: font-size 0.3s linear;
+}
+.bulle:hover >p
+{
+    font-size: 2rem;
+    transition: font-size 0.3s linear;
 }
 .touche-dir
 {

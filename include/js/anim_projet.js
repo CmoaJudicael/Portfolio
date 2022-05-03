@@ -46,7 +46,7 @@ function changePos(sens)
     }
     bulle = bullePos;
 
-    let pos = 2;
+    let pos = bulle.length-1;
     for (let index = 0; index < bulle.length; index++)
     {
         const element = bulle[index];
@@ -98,7 +98,6 @@ function setTurnValue()
     if(turn)
     {
         turn=false;
-        console.log(turn);
     }
     else
     {
