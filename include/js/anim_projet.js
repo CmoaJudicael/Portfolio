@@ -7,9 +7,9 @@ var info_bulle =
 [
     
     
-    {'left':'10%','top':'15%','width':((document.body.offsetWidth*25)/100)+'px','height':((document.body.offsetWidth*15)/100)+'px'},
-    {'left':'70%','top':'15%','width':((document.body.offsetWidth*25)/100)+'px','height':((document.body.offsetWidth*15)/100)+'px'},
-    {'left':'33%','top':'50%','width':((document.body.offsetWidth*40)/100)+'px','height':((document.body.offsetWidth*20)/100)+'px'}
+    {'left':'10%','top':'15%','width':((document.body.offsetWidth*15)/100)+'px','height':((document.body.offsetWidth*15)/100)+'px'},
+    {'left':'70%','top':'15%','width':((document.body.offsetWidth*15)/100)+'px','height':((document.body.offsetWidth*15)/100)+'px'},
+    {'left':'33%','top':'50%','width':((document.body.offsetWidth*20)/100)+'px','height':((document.body.offsetWidth*20)/100)+'px'}
     
 ];
 for (let index = 0; index < dir.length; index++) {

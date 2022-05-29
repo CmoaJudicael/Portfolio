@@ -1,10 +1,21 @@
+<div class="h-20vh w-100vw"></div>
 
-<!-- article PREMIER PAS -->
+<article id='up' class="typo bordure m-3 pt-5 Color-bg-darkBlue d-flex justify-content-center align-items-center">
+  <div class="d-flex flex-column justify-content-around ">
+    <h1 class="Color-lightBlue">La création d'un plugin pour WordPress</h1>
+    <br>
+
+  </div>
+</article>
+
+    <a href="index.php?page=projet-stage" class="lien typo bordure Color-bg-darkBlue m-3 p-2">REVENIR AU MENU PRECEDENT</a>
+<div class="h-20vh w-100vw"></div>
+<!-- article DESCRIPTION-->
 <article id='premier_pas' class="typo bordure mx-3 Color-bg-darkBlue">
-    <h1 class="Color-lightBlue">PREMIER PAS <span style="font-weight:normal;">: Tout commence ici !</span></h1>
+    <h1 class="Color-lightBlue">DESCRIPTION DE L'APPLICATION <span style="font-weight:normal;">: Tout commence ici !</span></h1>
     <div class='content_article d-flex '>
       <section class="d-flex justify-content-around">
-        <p>Tout commence ici <br> cliquez sur le bouton "COMMENCER" de la page d'accueil </p>
+        <p> <strong>La problématique :</strong> <br>L'entreprise utilise pour leur site et ceux de leur client, un plugin qui charge un preloader. Cependant les formes et les possibilités étant limité, le plugin actuel ne permet pas d'utiliser des animations créer sous After Effect et exporté en json pour le lecteur lotti file.<br> <br> <strong>La solution proposé : </strong> <br>En collaboration avec le responsable design, j'ai commencé par consulter les fichiers en sortie d'after effect et comment les exploiter. On a finis par conclure que la meilleur solution était de développer un nouveau plugin qui utilise les animations Lotti files. <br>Le Preloader Mocha est née.</p>
         <img class="img_tuto img_1" src="include/img/getting_start.png" alt="image du tuto demarrage">
       </section>
             
@@ -19,12 +30,12 @@
     <div class='content_article d-flex'>
       <section class="d-flex justify-content-around">
         <div>
-          <p>À cette étape, vous pouvez choisir le type d'animation que vous souhaitez parmi trois formats différents. Mais alors, comment faire votre choix ?</p>
+          <p>Afin de posséder un plugin complet, On a décidé de laisser la possibilité de choisir parmis 3 type d'animation</p>
           <br>
           <ul>
-            <li><b>Animation GIF</b><br><p>Le GIF peut être conçu par vos soins, via un logiciel d’animation ou encore via des outils en ligne tel que GIFFY. Il reste cependant le format le moins optimisé pour le chargement de votre site. En effet il est primordial de faire attention au poids de votre GIF, nous recommandons 200 ko maximum !</p> </li><br>
-            <li><b>Animation Lottiefile</b> <br><p>L’animation LottieFile est beaucoup moins lourde qu’un Gif puisqu’elle est conçue en code, maximum 100 Ko. Vous pouvez la créer vous-même ou en sélectionner sur des sites spécialisés. Pour en savoir plus, regardez notre rubrique d’aide « configurer une animation LottieFile ».</p></li><br>
-            <li><b>Animation CSS</b> <br><p>L’animation en CSS est la plus optimisée pour le chargement, avec un poids réduit à maximum 10 Ko. L’inconvénient : vous ne pourrez intégrer votre propre code. Nous avons sélectionné une série d’animation CSS à choisir parmi notre sélection et à personnaliser en terme de couleur ! </p></li>
+            <li><b>Animation GIF</b><br><p>Le GIF peut être conçu via un logiciel d’animation ou encore via des outils en ligne tel que GIFFY. Quelque animation sont présente par défaut.</p> </li><br>
+            <li><b>Animation Lottiefile</b> <br><p>L’animation LottieFile est beaucoup moins lourde qu’un Gif puisqu’elle est conçue en code, maximum 100 Ko. Vous pouvez la créer vous-même ou en sélectionner sur des sites spécialisés.Quelque animation sont présente par défaut</p></li><br>
+            <li><b>Animation CSS</b> <br><p>L’animation en CSS est la plus optimisée pour le chargement, avec un poids réduit à maximum 10 Ko. L’inconvénient: On ne peut pas intégrer sont propre code. On a sélectionné une série d’animation CSS à choisir parmi une sélection et à personnaliser en terme de couleur ! </p></li>
           </ul>
         </div>
         <img class="img_tuto img_1" src="include/img/choix_animation.png" alt="image du tuto demarrage">

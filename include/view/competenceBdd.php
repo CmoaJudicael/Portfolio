@@ -22,6 +22,7 @@ Une base de données est un ensemble (potentiellement volumineux, mais pas forc�
 <ul>
     <li>La modélisation MERISE : MCD et schémas relationnels.</li>
     <li>L'élaboration de requêtes SQL simples et complexes.</li>
+    <li>Procédures Stockée et Fonctions.</li>
 </ul>
 
 

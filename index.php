@@ -4,14 +4,18 @@ include __DIR__.'/include/view/doctype.php';
 
 ?>
 
-<body class="Color-lightGreen">
+<body class="Color-lightBlue">
     
 <?php
 
 include __DIR__.'/include/view/header.php';
 ?>
 <body>
+
     
+<?php
+include __DIR__.'/include/view/bg.php';
+?>
 
 <div class="wrap">
 

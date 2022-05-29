@@ -45,6 +45,37 @@
 {
     position: absolute;
 }
+.text-decoration-none
+{
+    text-decoration: none;
+}
+.h-50vh
+{
+    height: 50vh;
+}
+.h-20vh
+{
+    height: 20vh;
+}
+.w-100vw
+{
+    width: 100vw;
+}
+/****************/
+/**** BackGround Animation ****/
+canvas, body 
+{
+  margin: 0; padding: 0;overflow: auto;
+}
+canvas 
+{
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: -1;
+  display: block;
+}
 
 
 

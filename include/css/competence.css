@@ -8,14 +8,7 @@
 {
     left: -50%;
     top: 35%;
-    border: 0.3em solid #82e6a0;
     text-decoration: none;
-}
-.bulle:hover
-{
-    border: 1em solid #8b51b1;
-    transition: border 0.3s linear;
-
 }
 .bulle>p
 {
@@ -34,11 +27,11 @@
 }
 .touche-left
 {
-    border-left: 1rem solid red;
+    border-left: 1rem solid #3DA1FF;
 }
 .touche-right
 {
-    border-right: 1rem solid red;
+    border-right: 1rem solid #3DA1FF;
 }
 .touche-left:hover
 {
@@ -53,7 +46,7 @@
 {
     0%
     {
-        border-right: 1rem solid red;
+        border-right: 1rem solid #3DA1FF;
     }
     100%
     {
@@ -64,7 +57,7 @@
 {
     0%
     {
-        border-left: 1rem solid red;
+        border-left: 1rem solid #3DA1FF;
     }
     100%
     {

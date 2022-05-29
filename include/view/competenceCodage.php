@@ -17,7 +17,7 @@
     </div>
 </div>
 
-<div class="contenair Color-bg-darkBlue m-3">
+<div class="contenair Color-bg-darkBlue mx-3 my-5">
     <article class="content">
         <h1>C#</h1>
         <div class="d-flex justify-content-end align-items-center">
@@ -31,7 +31,7 @@ Il est dérivé du C++ et très proche du Java dont il reprend la syntaxe géné
         </div>
     </article>
 </div>
-<div class="contenair Color-bg-darkBlue  m-3">
+<div class="contenair Color-bg-darkBlue  mx-3 my-5">
     <article class="content">
         <h1>JAVA</h1>
         <div class="d-flex justify-content-end align-items-center">
@@ -43,7 +43,7 @@ Il est dérivé du C++ et très proche du Java dont il reprend la syntaxe géné
         </div>
     </article>
 </div>
-<div class="contenair Color-bg-darkBlue  m-3">
+<div class="contenair Color-bg-darkBlue  mx-3 my-5">
     <article class="content">
         <h1>HTML</h1>
         <div class="d-flex justify-content-end align-items-center">
@@ -56,7 +56,7 @@ Développé par le W3C (World Wide Web Consortium) et le WHATWG (Web Hypertext A
         </div>
     </article>
 </div>
-<div class="contenair Color-bg-darkBlue  m-3">
+<div class="contenair Color-bg-darkBlue  mx-3 my-5">
     <article class="content">
         <h1>CSS</h1>
         <div class="d-flex justify-content-end align-items-center">
@@ -69,7 +69,7 @@ Apparu dans les années 1990, le CSS se présente comme une alternative à la mi
         </div>
     </article>
 </div>
-<div class="contenair Color-bg-darkBlue  m-3">
+<div class="contenair Color-bg-darkBlue  mx-3 my-5">
     <article class="content">
         <h1>JS</h1>
         <div class="d-flex justify-content-end align-items-center">
@@ -80,7 +80,7 @@ Apparu dans les années 1990, le CSS se présente comme une alternative à la mi
         </div>
     </article>
 </div>
-<div class="contenair Color-bg-darkBlue  m-3">
+<div class="contenair Color-bg-darkBlue  mx-3 my-5">
     <article class="content">
         <h1>PHP</h1>
         <div class="d-flex justify-content-end align-items-center">
@@ -93,7 +93,7 @@ Créé au début des années 1990 par le Canadien et Groenlandais Rasmus Lerdorf
         </div>
     </article>
 </div>
-<div class="contenair Color-bg-darkBlue  m-3">
+<div class="contenair Color-bg-darkBlue  mx-3 my-5">
     <article class="content">
         <h1>PYTHON</h1>
         <div class="d-flex justify-content-end align-items-center">

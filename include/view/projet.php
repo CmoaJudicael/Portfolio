@@ -1,5 +1,5 @@
 <div class="wrap m-5 Color-bg-darkBlue d-flex justify-content-center">
-<h1>Projet</h1>
+<h1 class="Color-lightBlue">Projet</h1>
 </div>
 <div class="full-space Bulle-move">
     <a href="index.php?page=projet-stage" class="pos-Absolute rounded-circle bulle Color-bg-lightBlue d-flex justify-content-center align-items-sm-center">
